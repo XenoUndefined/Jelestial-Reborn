@@ -1,6 +1,6 @@
 ![Jelestial Image](https://raw.githubusercontent.com/XenoUndefined/Jelestial-Reborn/refs/heads/main/JelestialNew.png)
 
-# Defeat your opponents with just a single click.
+# ‎ ‎ ‎ 
 
 ## Usage
 
