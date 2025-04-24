@@ -20,7 +20,5 @@ end
 ```
 
 ## Version Releases
-```
-1.0 - nothing new
-1.1 - some ui changes ( LATEST )
-```
+- 1.0 - nothing new
+- 1.1 - some ui changes ( LATEST )
