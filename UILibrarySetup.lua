@@ -1,4 +1,8 @@
-
+game.StarterGui:SetCore("SendNotification", {
+    Title = "Jelestial Rework",
+    Text = "Loaded!",
+    Duration = 1
+})
 -- prevent multiple ui's
 if game:GetService("CoreGui"):FindFirstChild("UiLib") then
     game:GetService("CoreGui").UiLib:Destroy()
