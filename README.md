@@ -1,6 +1,5 @@
 ![Jelestial Image](https://raw.githubusercontent.com/XenoUndefined/Jelestial-Reborn/refs/heads/main/JelestialNew.png)
 
-# ‎ ‎ ‎ 
 
 ## Usage
 
