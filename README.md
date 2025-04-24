@@ -3,6 +3,8 @@
 
 ## Usage
 
+You can run the latest version of **Jelistial Rework** below here.
+
 ```lua
 if not isfolder("JelestialRework") then
     makefolder("JelestialRework")
@@ -15,3 +17,10 @@ end
 if isfile("JelestialRework/setup.lua") then
     loadstring(readfile("JelestialRework/setup.lua"))()
 end
+```
+
+## Version Releases
+```
+1.0 - nothing new
+1.1 - some ui changes ( LATEST )
+```
